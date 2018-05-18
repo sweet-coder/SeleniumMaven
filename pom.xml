@@ -24,8 +24,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.7.0</version>
 				<configuration>
-					<source>${jdk.level}</source>
-					<source>${jdk.level}</source>
+					<source>1.8</source>
+					<source>1.8</source>
 				</configuration>
 			</plugin>
 
